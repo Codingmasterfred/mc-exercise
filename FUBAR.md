@@ -1,2 +1,2 @@
-This is bob checking in 
-This Curl checking in
+This is bob checking in.
+This Curl checking in.
